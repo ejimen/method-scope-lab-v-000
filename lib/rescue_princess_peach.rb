@@ -8,6 +8,6 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-#def rescue_princess_peach
-#puts status
-#end
+rescue_princess_peach #runs the rescue princess peach method that is defined on line 1
+puts status
+
